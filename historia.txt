@@ -3,10 +3,7 @@ Esta es la historia de Nelson
 Y su buen amigo Martin
 
 Juntos hicieron hazañas
-<<<<<<< HEAD
 grandes grandes .
 Hoy hablaremos de su vida y obra maestra.
-=======
 grandes grandes grandes.
 Mañana hablaremos sobre su vida profesional
->>>>>>> cabecera
